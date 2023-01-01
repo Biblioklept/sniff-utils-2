@@ -18,4 +18,4 @@ This currently includes the following mods:
 ---
 I don't really care what you do with it as long as the original authors are OK with it, see the notice below.
 
-<sub>***THIS IS NOT ORIGINAL WORK!** All mods are licensed individually (or not at all) depending on the author's wishes, this project is left unlicensed to avoid licensing problems. **I will delist this mod if you, as the author of any of these mods, do not consent to this.***</sub>
+<sub>***NONE OF THE CODE IS MY OWN!** All mods are licensed individually (or not at all) depending on the author's wishes, this project is left unlicensed to avoid licensing problems. **I will delist this mod if you, as the author of any of these mods, do not consent to this.***</sub>
