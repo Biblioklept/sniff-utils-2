@@ -13,7 +13,7 @@ This currently includes the following mods as of writing:
 - **Shorter Names for Weapon Color Categories** by Cyril DeRoach
 - **Load Steam Inventory Once** by Sora
 
-**Uses the Cheater Kicker Plus edit (can't find an author for it) and is slightly modified further by me*
+**Uses the Cheater Kicker Plus edit and is slightly modified further by me*
 
 ---
 I don't really care what you do with it as long as the original authors are OK with it, see the notice below.
