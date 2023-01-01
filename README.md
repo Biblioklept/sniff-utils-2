@@ -1,7 +1,7 @@
 # Sniff's Utils
 **A personal collection of PAYDAY 2 Quality-of-Life mods, made to reduce mod count and ease readability.** Made for personal use but released for anyone who is bothered by this as well.
 
-This currently includes the following mods:
+This currently includes the following mods as of writing:
 - **No More Ads** by kaiden
 - **SteamOverFBI** by Literally the Crash, fixed by Trueboy
 - **Cheater Kicker*** by Sora
