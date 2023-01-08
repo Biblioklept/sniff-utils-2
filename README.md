@@ -12,6 +12,7 @@ This currently includes the following mods as of writing:
 - **[Stop the crimespree loss on crash](https://modworkshop.net/mod/19568)** by Sora
 - **[Short Names for Weapon Color Categories](https://modworkshop.net/mod/34297)** by Cyril DeRoach
 - **[Load Steam Inventory Once](https://modworkshop.net/mod/24008)** by Sora
+- **[Show my mod list](https://modworkshop.net/mod/40452)** by Trueboy
 
 **Uses the Cheater Kicker Plus edit and is slightly modified further by me*
 
