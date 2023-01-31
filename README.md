@@ -4,7 +4,6 @@
 This currently includes the following mods as of writing:
 - **[No More Ads](https://modworkshop.net/mod/34268)** by kaiden
 - **[SteamOverFBI](https://modworkshop.net/mod/37824)** by Literally the Crash, fixed by Trueboy
-- **[Cheater Kicker](https://modworkshop.net/mod/21487)*** by Sora
 - **[Reconnect to Server](https://modworkshop.net/mod/13546)** by Luffy
 - **[Low Violence Mode](https://modworkshop.net/mod/14602)** by Schmuddel
 - **[No Screen Shake v2](https://modworkshop.net/mod/34446)** by Tendo (original mod by sydch)
@@ -14,8 +13,7 @@ This currently includes the following mods as of writing:
 - **[Load Steam Inventory Once](https://modworkshop.net/mod/24008)** by Sora
 - **[Show my mod list](https://modworkshop.net/mod/40452)** by Trueboy
 - **[Keep Assigned Skill Sets](https://modworkshop.net/mod/38903)** by Mosder
-
-**Uses the Cheater Kicker Plus edit and is slightly modified further by me*
+- **[Automatically Equip ICTV Armor](https://modworkshop.net/mod/35944)** by Dr_Newbie
 
 ---
 I don't really care what you do with it as long as the original authors are OK with it, see the notice below.
