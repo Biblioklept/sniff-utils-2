@@ -1,9 +1,5 @@
 # Sniff's Utils
-## Now with 100% more customization!
 
-Sniff's Utils 2.0 includes the usual mod addition and, most importantly, **settings!** You can now enable or disable specific aspects of the mod that might not be wanted by certain users like Low Violence Mode, No Screen Shake, Sticky Interaction, Keep Assigned Skill Sets and more. *Some are not toggleable at the moment because they're objective improvements to the game's QoL, for example, performance improvements or features that don't get in the way of the user (like Reconnect to Server).* This overhaul greatly improves the accessibility of the mod and appeals much more to what my final goal with Sniff's Utils is, while giving some degree of control to the user.
-
----
 **A personal collection of PAYDAY 2 Quality-of-Life mods, made to reduce mod count and ease control of its features.** Made for personal use but released as a lightweight out-of-the-box modded experience for players who have never modded the game before, or those who find it comfortable to have a bunch of their common mods in the same place.
 
 Any other mod will work fine with this as long as there's not any conflicts. **If you suffer from crashes that mention Sniff's Utils directly in their log, please let me know through an issue here or a comment in ModWorkshop so I can fix it!**
@@ -18,10 +14,11 @@ Any other mod will work fine with this as long as there's not any conflicts. **I
 - **[Stop the crimespree loss on crash](https://modworkshop.net/mod/19568)** by Sora
 - **[Short Names for Weapon Color Categories](https://modworkshop.net/mod/34297)** by Cyril DeRoach
 - **[Load Steam Inventory Once](https://modworkshop.net/mod/24008)** by Sora
-- **[Show my mod list](https://modworkshop.net/mod/40452)** by Trueboy
 - **[Keep Assigned Skill Sets](https://modworkshop.net/mod/38903)** by Mosder
 - **[Automatically Equip ICTV Armor](https://modworkshop.net/mod/35944)** by Dr_Newbie
 - **[No Fade to Black](https://modworkshop.net/mod/17257)** by Luffy
+- **[Skip Blackscreen and Auto-Card Select Standalone](https://modworkshop.net/mod/13511)** by Iron Predator
+- **[Stat Screen Speed Up](https://modworkshop.net/mod/37939)** by vulkar97
 
 ***Also includes a settings menu in Mod Options to toggle certain features that some users may not want to use***
 
