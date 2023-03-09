@@ -28,4 +28,6 @@ You can also add mods to your local Sniff's Utils folder (or any other mod's) qu
   
 - **Save** the changes made to `mod.txt` and put your mod in PAYDAY 2's `mods` folder if you haven't already. You're now done!
 
+- If you're doing this with a mod with auto-updates, delete them by deleting `"updates": [` all the way to its ending `]`
+
   You can toggle the Developer information in-game to see if everything is hooked properly, and test your mods in a random or dedicated testing heist like [Proving Grounds](https://modworkshop.net/mod/29905).
