@@ -2,7 +2,7 @@
 	"name": "Sniff's Utils 2",
 	"description": "PAYDAY 2 modpack intended for better QoL across all of the game's aspects",
 	"author": "Synnef, Biblioklept, mod authors (see GitHub/ModWorkshop)"
-	"version": "2.2.0",
+	"version": "2.2.1",
 	"contact": "https://github.com/Biblioklept/sniff-utils-2",
 	"blt_version" : 2,
 	"keybinds" : [
