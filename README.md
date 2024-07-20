@@ -2,7 +2,7 @@
 
 **A collection of PAYDAY 2 Quality-of-Life mods, made to reduce mod count and ease control of its features.** Originally made for Sniff's personal use but released as a lightweight out-of-the-box modded experience for players who have never modded the game before, or those who find it comfortable to have a bunch of their common mods in the same place.
 
-Any other mod will work fine with this as long as there's not any conflicts. **If you suffer from crashes that mention Sniff's Utils directly in their log, please let me know through an issue here or a comment in ModWorkshop so I can fix it!**
+Any other mod will work fine with this as long as there's not any conflicts. **If you suffer from crashes that mention Sniff's Utils 2 directly in their log, please let me know through an issue here so I can fix it!**
 
 ### As of writing, the following mods were included:
 - **[No More Ads](https://modworkshop.net/mod/34268)** by kaiden
