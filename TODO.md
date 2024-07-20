@@ -1,14 +1,8 @@
 # TODO / Suggested Mods
 ### These are mods that have been suggested and may make it into a future update:
 
-- [Bag Carrying Tilt Removal](https://modworkshop.net/mod/16487) by Seven, uploaded to MWS by EdisLeado
+~~- A way to save your lobby's settings so everytime you buy a contract they're automatically set~~
 
-Additional notes: none!
+Additional notes: Use **[Lobby Settings](https://pd2mods.z77.fr/lobby_settings.html) by TdlQ. Could develop but this is perfectly fine and well made. Also, if you're feeling particularly bold. You can use my **[T-PACK mod.txt file](https://gist.github.com/Biblioklept/4db89e8ef03738c99b9c73bb64fa89fa)** which slims down the amount of mods installed from 48 to 17.
 
-- A way to save your lobby's settings so everytime you buy a contract they're automatically set
-
-Additional notes: will be complicated to do but I'll try to implement something long-term
-
-- [No Cloaker Camera Movement](https://modworkshop.net/mod/24339) by Zdann
-
-Additional notes: not planned for a close release but rather long term
+- Add more modules to the options. Currently files are just merged into the lua without much more effort.
