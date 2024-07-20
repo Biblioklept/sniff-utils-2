@@ -1,0 +1,16 @@
+{
+    "low_violence": true,
+    "no_screen_shake": true,
+    "hide_ads": true,
+    "steamoverfbi_redirect": true,
+    "sticky_interaction": true,
+    "no_menu_transitions": true,
+    "infamy_keep_skillsets": true,
+    "less_annoying_menuing": true,
+    "short_colors": true,
+    "disable_rats_blur": true,
+    "no_ads_breathing": true,
+    "disable_fog": true,
+    "disable_cloaker_camera": true,
+    "disable_bag_tilt": true,
+}
