@@ -21,6 +21,8 @@
     "less_annoying_menuing_desc": "Skips heist intros, speeds up the end XP screen without pressing Space and automatically picks a card during Paydays",
     "short_colors": "Short Weapon Color Category Names",
     "short_colors_desc": "Makes the vanilla weapon color categories's names shorter, skipping the need for scrolling",
+	"health_flash_fix": "Health Flash Fix"
+	"health_flash_fix_desc": "Stops players' health flashing if not changed"
     "disable_reconnect": "Disable Reconnect to Server",
     "disable_reconnect_desc": "Check this if Reconnect to Server results in infinite loading after Update 237"
     "disable_rats_blur": "Disable Rats/Cook Off Blur",

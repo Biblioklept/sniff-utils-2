@@ -92,6 +92,14 @@
 			"default_value": true
         }, {
             "type": "toggle",
+			"id": "health_flash_fix",
+			"title": "health_flash_fix",
+			"description": "health_flash_fix_desc",
+			"value": "health_flash_fix",
+			"callback": "SniffUtils_menu_callback",
+			"default_value": true
+        }, {
+            "type": "toggle",
 			"id": "disable_reconnect",
 			"title": "disable_reconnect",
 			"description": "disable_reconnect_desc",

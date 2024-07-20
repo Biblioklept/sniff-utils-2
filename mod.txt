@@ -19,7 +19,7 @@
 		
 		{ "hook_id": "lib/managers/enemymanager", "script_path": "lua/lowviolencemode.lua" },
 		{ "hook_id": "lib/managers/gameplaycentralmanager", "script_path": "lua/lowviolencemode.lua" },
-		{ "hook_id": "lib/units/enemies/cop/copdamage", "script_path": "lua/lowviolencemode.lua" },
+		{ "hook_id": "lib/units/enemies/cop/copdamage", "script_path": "lua/lowviolencemode.lua"},
 		{ "hook_id" : "lib/units/beings/player/playercamera", "script_path" : "lua/noscreenshake.lua"},
 		{ "hook_id" : "lib/units/beings/player/states/playerstandard", "script_path" : "lua/pocostickyinteraction.lua"},
 		{ "hook_id" : "lib/managers/hud/HUDInteraction", "script_path" : "lua/pocostickyinteraction.lua"},
@@ -27,6 +27,7 @@
 		{ "hook_id" : "lib/managers/crimenetmanager", "script_path" : "lua/reconnecttoserver.lua"},
 		{ "hook_id" : "lib/network/matchmaking/networkmatchmakingsteam", "script_path" : "lua/reconnecttoserver.lua"},
 		{ "hook_id" : "lib/managers/localizationmanager", "script_path" : "lua/shortcolors.lua"},
+		{ "hook_id" : "lib/managers/hud/hudteammate", "script_path" : "mod.lua"},
 		{ "hook_id" : "lib/tweak_data/crimespreetweakdata", "script_path":"lua/stopcsloss.lua"},
 		{ "hook_id" : "lib/network/matchmaking/networkaccountsteam", "script_path":"lua/loadsteamonce.lua"},
 		{ "hook_id" : "lib/managers/menu/blackmarketgui", "script_path":"lua/loadsteamonce.lua"},
@@ -45,12 +46,12 @@
 		{ "hook_id" : "lib/managers/menu/contractboxgui", "script_path" : "lua/steamoverfbi.lua"},
 
 		{ "hook_id" : "lib/managers/menumanager", "script_path" : "lua/nomoreads.lua"},
-		{ "hook_id" : "lib/managers/menu/menucomponentmanager", "script_path" : "lua/nomoreads.lua" },
+		{ "hook_id" : "lib/managers/menu/menucomponentmanager", "script_path" : "lua/nomoreads.lua"},
 
-		{ "hook_id" : "lib/managers/mission/elementblurzone", "script_path" : "lua/ratsblurremoval.lua" },
-		{ "hook_id" : "core/lib/managers/viewport/environment/coreenvironmentfeeder", "script_path" : "lua/disablefog.lua" },
-		{ "hook_id" : "lib/tweak_data/playertweakdata", "script_path" : "lua/noadsbreathing.lua" },
-		{ "hook_id" : "lib/units/beings/player/states/playercarry", "script_path" : "lua/bagtiltremoval.lua" },
+		{ "hook_id" : "lib/managers/mission/elementblurzone", "script_path" : "lua/ratsblurremoval.lua"},
+		{ "hook_id" : "core/lib/managers/viewport/environment/coreenvironmentfeeder", "script_path" : "lua/disablefog.lua"},
+		{ "hook_id" : "lib/tweak_data/playertweakdata", "script_path" : "lua/noadsbreathing.lua"},
+		{ "hook_id" : "lib/units/beings/player/states/playercarry", "script_path" : "lua/bagtiltremoval.lua"},
 		{ "hook_id" : "lib/units/cameras/fpcameraplayerbase", "script_path" : "lua/nocloakercamera.lua"}
     ]
 	"updates" : [
