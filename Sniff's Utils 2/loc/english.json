@@ -21,15 +21,15 @@
     "less_annoying_menuing_desc": "Skips heist intros, speeds up the end XP screen without pressing Space and automatically picks a card during Paydays",
     "short_colors": "Short Weapon Color Category Names",
     "short_colors_desc": "Makes the vanilla weapon color categories's names shorter, skipping the need for scrolling",
-	"health_flash_fix": "Health Flash Fix"
-	"health_flash_fix_desc": "Stops players' health flashing if not changed"
+    "health_flash_fix": "Health Flash Fix"
+    "health_flash_fix_desc": "Stops players' health flashing if not changed"
     "disable_reconnect": "Disable Reconnect to Server",
     "disable_reconnect_desc": "Check this if Reconnect to Server results in infinite loading after Update 237"
     "disable_rats_blur": "Disable Rats/Cook Off Blur",
     "disable_rats_blur_desc": "Removes the blur from Rats Day 1/Cook Off"
     "disable_fog": "Disable Fog",
     "disable_fog_desc": "Removes fog effect"
-    "disable_cloaker_camera": "Disable Reconnect to Server",
+    "disable_cloaker_camera": "Disable Cloaker Camera",
     "disable_cloaker_camera_desc": "Removes cloaker charges and jump kicks forcing your camera to face them"
     "disable_bag_tilt": "Disable Bag Tilt",
     "disable_bag_tilt_desc": "Removes the tilt effect when carrying a bag"
