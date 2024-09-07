@@ -32,5 +32,7 @@
     "disable_cloaker_camera": "Disable Cloaker Camera",
     "disable_cloaker_camera_desc": "Removes cloaker charges and jump kicks forcing your camera to face them"
     "disable_bag_tilt": "Disable Bag Tilt",
-    "disable_bag_tilt_desc": "Removes the tilt effect when carrying a bag"
+    "disable_bag_tilt_desc": "Removes the tilt effect when carrying a bag",
+	"instant_crimenet": "Instant Crime.net",
+	"instant_crimenet_desc": "Removes the waiting time for Crime.net missions"
 }

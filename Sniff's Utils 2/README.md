@@ -27,6 +27,7 @@ Any other mod will work fine with this as long as there's not any conflicts. **I
 - **[Bag Carrying Tilt Removal](https://modworkshop.net/mod/16487)** by EdisLeado
 - **[DisableFog](https://modworkshop.net/mod/24339)** by Zdann
 - **[Health Flash Fix V2](https://modworkshop.net/mod/39838)** by Hoppip and OG for a fee
+- **[Faster Crime.net Heist Popups](https://modworkshop.net/mod/24823)** by marjin211
 
 ***Also includes a settings menu in Mod Options to toggle certain features that some users may not want to use***
 

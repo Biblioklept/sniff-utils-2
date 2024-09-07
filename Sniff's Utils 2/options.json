@@ -141,6 +141,14 @@
 			"value": "disable_bag_tilt",
 			"callback": "SniffUtils_menu_callback",
 			"default_value": true
+        }, {
+            "type": "toggle",
+			"id": "instant_crimenet",
+			"title": "instant_crimenet",
+			"description": "instant_crimenet_desc",
+			"value": "instant_crimenet",
+			"callback": "SniffUtils_menu_callback",
+			"default_value": true
         }
 	]
 }
