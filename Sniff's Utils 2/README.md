@@ -25,9 +25,13 @@ Any other mod will work fine with this as long as there's not any conflicts. **I
 - **[No ADS Breathing Effect](https://modworkshop.net/mod/21246)** by pawcio1337
 - **[DisableFog](https://modworkshop.net/mod/32328)** by Onzlc
 - **[Bag Carrying Tilt Removal](https://modworkshop.net/mod/16487)** by EdisLeado
-- **[DisableFog](https://modworkshop.net/mod/24339)** by Zdann
+- **[No Cloaker Camera Movement](https://modworkshop.net/mod/24339)** by Zdann
 - **[Health Flash Fix V2](https://modworkshop.net/mod/39838)** by Hoppip and OG for a fee
 - **[Faster Crime.net Heist Popups](https://modworkshop.net/mod/24823)** by marjin211
+- **[CRIME.NET Performance Improvement Fixed](https://modworkshop.net/mod/42769)** by test1
+- **[No Prints](https://modworkshop.net/mod/21549)** by Sora
+- **[Load Steam Inventory Once](https://modworkshop.net/mod/24008)** by Sora
+- **[Mod List Lite](https://modworkshop.net/mod/40504)** by BANGL (reuploaded by NoahTheG)
 
 ***Also includes a settings menu in Mod Options to toggle certain features that some users may not want to use***
 
@@ -36,6 +40,6 @@ Any other mod will work fine with this as long as there's not any conflicts. **I
 First of all, check for mods that have already been suggested [here](https://github.com/Biblioklept/sniff-utils-2/blob/main/TODO.md).
 
 If your suggestion isn't a duplicate, check the [suggestion guidelines](https://github.com/Biblioklept/sniff-utils-2/blob/main/SUGGESTIONS.md), your mod may be considered over others for certain criteria mentioned there. There are also instructions on how to add your own mods if you just want them on *your* game and not for everyone to download here.
-
 ---
+
 ***NONE OF THE CODE IS MY OWN!*** All mods are licensed individually (or not at all) depending on the author's wishes, this project is left unlicensed to avoid licensing problems. ***You, as the developer of any of these mods, are free to request your mod from being removed.***
