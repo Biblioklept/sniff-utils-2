@@ -20,7 +20,7 @@ Any other mod will work fine with this as long as there's not any conflicts. **I
 - **[Skip Blackscreen and Auto-Card Select Standalone](https://modworkshop.net/mod/13511)** by Iron Predator
 - **[Stat Screen Speed Up](https://modworkshop.net/mod/37939)** by vulkar97
 
-### And the following mods were added:
+### And the following mods were added (in order of addition):
 - **[Rats Day 1/Cook Off Blur Removal](https://modworkshop.net/mod/15368)** by ErykG120
 - **[No ADS Breathing Effect](https://modworkshop.net/mod/21246)** by pawcio1337
 - **[DisableFog](https://modworkshop.net/mod/32328)** by Onzlc
