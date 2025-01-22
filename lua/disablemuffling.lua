@@ -1,0 +1,3 @@
+InstantExplosiveBulletBase.EFFECT_PARAMS.sound_muffle_effect = false
+InstantSnowballBase.EFFECT_PARAMS.sound_muffle_effect = false
+InstantFlameBulletBase.EFFECT_PARAMS.sound_muffle_effect = false

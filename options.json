@@ -14,6 +14,14 @@
 			"default_value": true
         }, {
             "type": "toggle",
+			"id": "disable_muffling",
+			"title": "disable_muffling",
+			"description": "disable_muffling_desc",
+			"value": "disable_muffling",
+			"callback": "SniffUtils_menu_callback",
+			"default_value": true
+        }, {
+            "type": "toggle",
 			"id": "no_screen_shake",
 			"title": "no_screen_shake",
 			"description": "no_screen_shake_desc",
@@ -26,6 +34,14 @@
 			"title": "no_ads_breathing",
 			"description": "no_ads_breathing_desc",
 			"value": "no_ads_breathing",
+			"callback": "SniffUtils_menu_callback",
+			"default_value": true
+        }, {
+            "type": "toggle",
+			"id": "no_ads_movement",
+			"title": "no_ads_movement",
+			"description": "no_ads_movement_desc",
+			"value": "no_ads_movement",
 			"callback": "SniffUtils_menu_callback",
 			"default_value": true
         }, {

@@ -1,4 +1,5 @@
 {
+    "disable_muffling": true,
     "low_violence": true,
     "no_screen_shake": true,
     "hide_ads": true,
@@ -11,6 +12,7 @@
     "health_flash_fix": true,
     "disable_rats_blur": true,
     "no_ads_breathing": true,
+    "no_ads_movement": true,
     "disable_fog": true,
     "disable_cloaker_camera": true,
     "disable_bag_tilt": true,
