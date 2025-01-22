@@ -3,7 +3,7 @@
     "su_options_desc": "Change the mod's options. A MAP CHANGE/RESTART IS REQUIRED TO APPLY CHANGES!",
     "low_violence": "Low Violence Mode",
     "low_violence_desc": "Blocks corpses, blood decals, shields and helmets from rendering after the enemy has died.",
-    "disable_muffling": "Low Violence Mode",
+    "disable_muffling": "Disable Muffling",
     "disable_muffling_desc": "Disables the muffle sound when you shoot yourself for HE/Incendiary rounds, as well as snowballs.",
     "no_screen_shake": "No Screen Shake",
     "no_screen_shake_desc": "Disables camera shaking when shooting or when near explosions.",
