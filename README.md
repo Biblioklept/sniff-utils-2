@@ -32,6 +32,8 @@ Any other mod will work fine with this as long as there's not any conflicts. **I
 - **[No Prints](https://modworkshop.net/mod/21549)** by Sora
 - **[Load Steam Inventory Once](https://modworkshop.net/mod/24008)** by Sora
 - **[Mod List Lite](https://modworkshop.net/mod/40504)** by BANGL (reuploaded by NoahTheG)
+- **[No Additional ADS Movement](https://modworkshop.net/mod/32461)** by pawcio1337
+- **[Disable Sound Muffle Effect](https://modworkshop.net/mod/50822)** by memÓry and DR01D_Qs
 
 ***Also includes a settings menu in Mod Options to toggle certain features that some users may not want to use***
 
